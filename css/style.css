@@ -1,0 +1,66 @@
+
+li{
+	list-style:none;
+}
+a{
+	text-decoration:none;;
+}
+.container{
+	width:1170px;
+	margin:0 auto;
+}
+.hedear_aria img{
+	width:100%;
+	height:1003px;
+
+}
+.hedear_aria{
+	position:relative;
+}
+.vertical-menu{
+	position:absolute;
+	left:0;
+	top:170px;
+}
+.container-aria{
+	position:absolute;
+	
+}
+.vertical-menu ul{}
+.vertical-menu ul li{
+	float:left;
+	text-transform:uppercase;
+	font-size:18;
+}
+.vertical-menu ul a{
+	padding:10px 0px;
+	
+}
+.vertical-menu ul a:hover{}
+.vertical-menu{}
+nav{
+  float: left;
+  writing-mode:tb;
+  writing-mode: tb-rl;
+  /*IE*/
+  writing-mode: vertical-lr;
+  /* OPera/webkit*/
+  writing-mode: sideways-lr;
+  /*should be it */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
